@@ -1,0 +1,11 @@
+/*
+
+var returnResult = function(name) {
+  var number = Math.floor(Math.random() * 15) + 1;
+  if(number<6){
+  	number+=6;
+  }
+ console.log(name + " " + number);
+}
+
+*/
